@@ -51,5 +51,6 @@ body:
 
   - type: markdown
     attributes:
-      value: @kubernetes/release-team-release-signal
+      value: |
+        @kubernetes/release-team-release-signal
 
