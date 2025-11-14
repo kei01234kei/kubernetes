@@ -47,4 +47,6 @@ body:
     attributes:
       label: Relevant SIG(s)
       description: You can identify the SIG from the "prowjob_config_url" on the testgrid dashboard for a test.
-      value: /sig 
+      value: |
+        /sig
+        hoge
